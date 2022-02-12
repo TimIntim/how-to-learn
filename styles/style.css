@@ -304,3 +304,78 @@ div {
   height: 877px;
 }
 /*endregion*/
+
+.footer {
+  background-color: black;
+  min-height: 350px;
+  display: flex;
+  align-items: stretch;
+}
+
+.footer__columns {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90%;
+  margin: 60px auto 40px;
+  color: white;
+
+}
+
+.footer__column_content_copyright {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-basis: 711px;
+
+}
+
+.logo_place_footer {
+  background-image: url("../images/logo_place_footer.svg");
+  background-repeat: no-repeat;
+  background-size: 183px 35px;
+}
+
+.footer__author {
+  margin: 18px 0;
+  padding: 0;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.footer__column_info {
+
+}
+
+.footer__column_heading {
+  margin: 0;
+  padding: 0;
+  line-height: 30px;
+  font-size: 18px;
+}
+
+.footer__column_links {
+  list-style-type: none;
+  position: relative;
+  margin: 20px 0 16px;
+  padding: 0;
+}
+
+.column__link {
+  color: white;
+  text-decoration-line: none;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.footer__column_social {
+
+}
+
+.footer__social-icon {
+  margin-right: 10px;
+  width: 16px;
+  height: 16px;
+}
