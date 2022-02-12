@@ -305,11 +305,11 @@ div {
 }
 /*endregion*/
 
+/*region footer*/
 .footer {
   background-color: black;
   min-height: 350px;
   display: flex;
-  align-items: stretch;
 }
 
 .footer__columns {
@@ -319,7 +319,6 @@ div {
   width: 90%;
   margin: 60px auto 40px;
   color: white;
-
 }
 
 .footer__column_content_copyright {
@@ -378,3 +377,4 @@ div {
   width: 16px;
   height: 16px;
 }
+/*endregion*/
