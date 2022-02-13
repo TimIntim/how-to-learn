@@ -338,6 +338,10 @@ div {
 
 }
 
+.footer__column_content_social {
+
+}
+
 .logo_place_footer {
   background-image: url("../images/logo_place_footer.svg");
   background-repeat: no-repeat;
@@ -372,10 +376,6 @@ div {
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-}
-
-.footer__column_content_social {
-
 }
 
 .footer__social-icon {
