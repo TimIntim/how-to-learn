@@ -17,7 +17,7 @@ This single-page website contains description of how to make your studying more
 * CSS.
 
 ## Project development plans
-Add adaptive layout.
+Add an adaptive layout.
 
 
 
