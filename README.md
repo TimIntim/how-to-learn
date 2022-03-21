@@ -18,8 +18,3 @@ This single-page website contains description of how to make your studying more
 
 ## Project development plans
 Add an adaptive layout.
-
-
-
-
-
